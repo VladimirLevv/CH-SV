@@ -1,6 +1,5 @@
 $(document).ready(function(){
   $("a").click(function(){
-    $("#7melons*").attr("href", "https://www.7melons.ch/it/?s=bfp39209");
     $("#22bet*").attr("href", "https://refpasrasw.world/L?tag=d_1137603m_7669c_&site=1137603&ad=7669&r=it/slots");
     $("#LokiCasino*").attr("href", "https://atraff.com/?serial=12989&creative_id=705&anid=");
     $("#EUslot*").attr("href", "https://atraff.com/?serial=12989&creative_id=707&anid=");
